@@ -30,4 +30,4 @@ I'm gonna update this repository with more interesting strategies and continue t
 algorithms in addition to the current stratagies.
 
 connect on linkedin for questions:
-Muthu Rishikeshwaran Eswaran
+https://www.linkedin.com/in/muthurishikesh/
