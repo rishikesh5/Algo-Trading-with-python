@@ -8,7 +8,7 @@ Packages: numpy,pandas,datetime,talib,tsf
 
 Objective:
 Get the data from live API, Using python(Zerodha Documentation) Automated trade calls (buy,sell) 
-whwn the given condition is satisfied
+when the given condition is satisfied
 
 BUY/SELL Condtion:
 Intraday Simple moving average strategy:
